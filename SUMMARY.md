@@ -9,6 +9,7 @@
     * [1.5 gh-pages](chapter_01/1-5.md)
     * [1.6 book.json](chapter_01/1-6.md)
     * [1.7 相关插件](chapter_01/1-7.md)
+    * [1.8 案例说明](chapter_01/1-8.md)
 * [2. Git](chapter_02/README.md)
     * [2.1 Git基本命令行](chapter_02/2-1.md)
 * [结束](chapter_end/README.md)
